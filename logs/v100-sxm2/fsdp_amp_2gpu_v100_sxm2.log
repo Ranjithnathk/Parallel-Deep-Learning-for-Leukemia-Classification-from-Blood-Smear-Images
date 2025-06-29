@@ -1,0 +1,18 @@
+[GPU 0] Epoch 1/5 | Loss: 33.8020 | Acc: 0.9169 | Time: 12.78s
+[GPU 1] Epoch 1/5 | Loss: 34.1969 | Acc: 0.9157 | Time: 12.80s
+[GPU 1] Epoch 2/5 | Loss: 2.8573 | Acc: 0.9936 | Time: 11.31s
+[GPU 0] Epoch 2/5 | Loss: 2.6920 | Acc: 0.9937 | Time: 11.29s
+[GPU 0] Epoch 3/5 | Loss: 1.1891 | Acc: 0.9969 | Time: 11.29s
+[GPU 1] Epoch 3/5 | Loss: 1.4869 | Acc: 0.9972 | Time: 11.42s
+[GPU 1] Epoch 4/5 | Loss: 0.9979 | Acc: 0.9984 | Time: 11.34s
+[GPU 0] Epoch 4/5 | Loss: 1.0860 | Acc: 0.9976 | Time: 11.30s
+[GPU 1] Epoch 5/5 | Loss: 0.4780 | Acc: 0.9987 | Time: 11.34s
+[GPU 1] Total training time: 58.20 seconds
+[GPU 0] Epoch 5/5 | Loss: 0.4188 | Acc: 0.9995 | Time: 11.21s
+[GPU 0] Total training time: 57.86 seconds
+[GPU 0] Speedup: 10.37
+[GPU 0] Efficiency: 5.18
+Before Save Model
+Model saved to models/v100-sxm2/model_fsdp_amp_v100-sxm2_2gpu.pth
+Before train metrics
+Training metrics saved to training_metrics/v100-sxm2_metrics_fsdp_amp_2gpu.npz

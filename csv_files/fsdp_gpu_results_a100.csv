@@ -1,0 +1,5 @@
+Parallelism,GPUType,NumGPUs,Epochs,TotalTime(s),Speedup,Efficiency
+FSDP,a100,1,5,99.42,6.04,6.04
+FSDP,a100,2,5,74.11,8.1,4.05
+FSDP,a100,4,5,80.66,7.44,1.86
+FSDP,a100,3,5,73.53,8.16,2.72

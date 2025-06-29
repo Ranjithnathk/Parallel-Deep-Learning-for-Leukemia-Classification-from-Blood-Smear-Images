@@ -1,0 +1,5 @@
+Parallelism,GPUType,NumGPUs,Epochs,TotalTime(s),Speedup,Efficiency
+FSDP,v100-sxm2,1,5,220.62,2.72,2.72
+FSDP,v100-sxm2,2,5,114.68,5.23,2.62
+FSDP,v100-sxm2,4,5,70.3,8.53,2.13
+FSDP,v100-sxm2,3,5,82.93,7.24,2.41

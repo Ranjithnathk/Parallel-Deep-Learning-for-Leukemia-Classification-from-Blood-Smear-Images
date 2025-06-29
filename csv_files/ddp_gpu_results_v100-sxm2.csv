@@ -1,0 +1,5 @@
+Parallelism,GPUType,NumGPUs,Epochs,TotalTime(s),Speedup,Efficiency
+DDP,v100-sxm2,1,5,220.94,2.72,2.72
+DDP,v100-sxm2,2,5,113.58,5.28,2.64
+DDP,v100-sxm2,4,5,68.0,8.82,2.21
+DDP,v100-sxm2,3,5,87.72,6.84,2.28

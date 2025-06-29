@@ -1,0 +1,5 @@
+Parallelism,GPUType,NumGPUs,Epochs,TotalTime(s),Speedup,Efficiency
+DDP,a100,1,5,103.85,5.78,5.78
+DDP,a100,2,5,78.1,7.68,3.84
+DDP,a100,4,5,77.66,7.73,1.93
+DDP,a100,3,5,83.68,7.17,2.39

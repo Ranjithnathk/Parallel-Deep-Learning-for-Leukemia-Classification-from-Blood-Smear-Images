@@ -1,0 +1,10 @@
+[GPU 0] Epoch 1/5 | Loss: 50.6183 | Acc: 0.9337 | Time: 22.15s
+[GPU 0] Epoch 2/5 | Loss: 4.5593 | Acc: 0.9945 | Time: 20.96s
+[GPU 0] Epoch 3/5 | Loss: 2.8023 | Acc: 0.9958 | Time: 21.01s
+[GPU 0] Epoch 4/5 | Loss: 1.5464 | Acc: 0.9981 | Time: 21.00s
+[GPU 0] Epoch 5/5 | Loss: 2.1731 | Acc: 0.9976 | Time: 20.99s
+[GPU 0] Total training time: 106.11 seconds
+[GPU 0] Speedup: 5.65
+[GPU 0] Efficiency: 5.65
+Model saved to models/v100-sxm2/model_ddp_amp_v100-sxm2_1gpu.pth
+Training metrics saved to training_metrics/v100-sxm2_metrics_ddp_amp_1gpu.npz

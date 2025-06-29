@@ -1,0 +1,12 @@
+[GPU 0] Epoch 1/5 | Loss: 48.4394 | Acc: 0.9373 | Time: 23.78s
+[GPU 0] Epoch 2/5 | Loss: 5.3458 | Acc: 0.9937 | Time: 19.98s
+[GPU 0] Epoch 3/5 | Loss: 2.7987 | Acc: 0.9971 | Time: 20.44s
+[GPU 0] Epoch 4/5 | Loss: 2.8897 | Acc: 0.9962 | Time: 21.63s
+[GPU 0] Epoch 5/5 | Loss: 1.1999 | Acc: 0.9985 | Time: 17.58s
+[GPU 0] Total training time: 103.40 seconds
+[GPU 0] Speedup: 5.80
+[GPU 0] Efficiency: 5.80
+Before Save Model
+Model saved to models/a100/model_fsdp_amp_a100_1gpu.pth
+Before train metrics
+Training metrics saved to training_metrics/a100_metrics_fsdp_amp_1gpu.npz

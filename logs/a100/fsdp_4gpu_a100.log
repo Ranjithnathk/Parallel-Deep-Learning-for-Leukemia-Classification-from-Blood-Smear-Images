@@ -1,0 +1,28 @@
+[GPU 2] Epoch 1/5 | Loss: 24.6619 | Acc: 0.8781 | Time: 20.47s
+[GPU 3] Epoch 1/5 | Loss: 25.0738 | Acc: 0.8835 | Time: 18.98s
+[GPU 0] Epoch 1/5 | Loss: 25.7833 | Acc: 0.8691 | Time: 22.30s
+[GPU 1] Epoch 1/5 | Loss: 24.2637 | Acc: 0.8837 | Time: 20.52s
+[GPU 0] Epoch 2/5 | Loss: 1.8554 | Acc: 0.9931 | Time: 14.88s
+[GPU 2] Epoch 2/5 | Loss: 1.5544 | Acc: 0.9933 | Time: 15.11s
+[GPU 1] Epoch 2/5 | Loss: 2.0010 | Acc: 0.9893 | Time: 15.07s
+[GPU 3] Epoch 2/5 | Loss: 1.9571 | Acc: 0.9899 | Time: 15.07s
+[GPU 3] Epoch 3/5 | Loss: 0.6820 | Acc: 0.9979 | Time: 13.32s
+[GPU 2] Epoch 3/5 | Loss: 0.8932 | Acc: 0.9963 | Time: 13.35s
+[GPU 0] Epoch 3/5 | Loss: 0.9168 | Acc: 0.9952 | Time: 13.18s
+[GPU 1] Epoch 3/5 | Loss: 0.9272 | Acc: 0.9949 | Time: 13.38s
+[GPU 1] Epoch 4/5 | Loss: 0.3578 | Acc: 0.9981 | Time: 14.56s
+[GPU 2] Epoch 4/5 | Loss: 0.4395 | Acc: 0.9992 | Time: 14.62s
+[GPU 3] Epoch 4/5 | Loss: 0.3601 | Acc: 0.9987 | Time: 14.65s
+[GPU 0] Epoch 4/5 | Loss: 0.2947 | Acc: 0.9989 | Time: 14.46s
+[GPU 0] Epoch 5/5 | Loss: 0.2607 | Acc: 0.9992 | Time: 15.83s
+[GPU 2] Epoch 5/5 | Loss: 0.2357 | Acc: 0.9989 | Time: 16.01s
+[GPU 2] Total training time: 79.56 seconds
+[GPU 3] Epoch 5/5 | Loss: 0.2616 | Acc: 0.9992 | Time: 16.01s
+[GPU 3] Total training time: 78.02 seconds
+[GPU 1] Epoch 5/5 | Loss: 0.3257 | Acc: 0.9984 | Time: 16.04s
+[GPU 1] Total training time: 79.57 seconds
+[GPU 0] Total training time: 80.66 seconds
+[GPU 0] Speedup: 7.44
+[GPU 0] Efficiency: 1.86
+Model saved to models/a100/model_fsdp_a100_4gpu.pth
+Training metrics saved to training_metrics/a100_metrics_fsdp_4gpu.npz

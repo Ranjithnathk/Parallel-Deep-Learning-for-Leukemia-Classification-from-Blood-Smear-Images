@@ -1,0 +1,10 @@
+[GPU 0] Epoch 1/5 | Loss: 47.0211 | Acc: 0.9405 | Time: 23.69s
+[GPU 0] Epoch 2/5 | Loss: 5.1780 | Acc: 0.9934 | Time: 19.95s
+[GPU 0] Epoch 3/5 | Loss: 2.9254 | Acc: 0.9959 | Time: 19.90s
+[GPU 0] Epoch 4/5 | Loss: 1.9666 | Acc: 0.9972 | Time: 20.23s
+[GPU 0] Epoch 5/5 | Loss: 1.4438 | Acc: 0.9980 | Time: 20.08s
+[GPU 0] Total training time: 103.85 seconds
+[GPU 0] Speedup: 5.78
+[GPU 0] Efficiency: 5.78
+Model saved to models/a100/model_ddp_a100_1gpu.pth
+Training metrics saved to training_metrics/a100_metrics_1gpu.npz
